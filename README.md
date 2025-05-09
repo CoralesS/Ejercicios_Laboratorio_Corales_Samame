@@ -96,5 +96,12 @@ Estudiante de Ingeniería de Sistemas e Informática
 📆 Ciclo: 2025-I  
 
 ---
-Docente: Ms. Johan Max A. López Heredia
+
+<h3>👨‍🏫 DOCENTE RESPONSABLE</h3>
+
+<p><strong>Ms. Johan Max A. López Heredia</strong><br>
+Docente del curso <em>Algoritmos Evolutivos de Aprendizaje</em><br>
+Escuela Profesional de Ingeniería de Sistemas e Informática</p>
+
+---
 <h3 align="center">⭐ ¡Gracias por visitar el proyecto! ⭐</h3>
